@@ -51,11 +51,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Hey there! 👋 I'm SKKU university student with a keen interest in the data engineering.
+      Hey there! 👋 I'm SKKU university student with a keen interest in the data engineering.<br>
       I value sincerity, innovation, and integrity. I think maintaining a positive atmosphere and 
-      attitude helps increase work efficiency.
+      attitude helps increase work efficiency.<br>
       I also quick to learn, dynamic, comfortable with fast-paced environments, and have the ability 
-      to adapt quickly and work efficiently with large teams.
+      to adapt quickly and work efficiently with large teams.<br>
       Thank you for being here! If you have any suggestions, please feel free to contact me!
 education:
     title: Education
@@ -90,9 +90,9 @@ experiences:
         time: 2023 - 2023
         company: MEDIAIPLUS, Pangyo, South Korea
         details: |
-            I worked at MEDIAIPLUS as an intern for 4 months, worked as a data engineer and took on two main tasks.
+            I worked at MEDIAIPLUS as an intern for 4 months, worked as a data engineer and took on two main tasks.<br>
             Firstly, I designed and implemented a data collecting process, transforming unstructured data into a 
-            structured format for improved analytical efficiency. Secondly, I established a data collection environment
+            structured format for improved analytical efficiency.<br> Secondly, I established a data collection environment
             using external sources and APIs, constructing an efficient pipeline for processing large datasets and 
             ensuring data quality through validation and error resolution. 
             - Data Analysis
