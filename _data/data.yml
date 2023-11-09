@@ -51,12 +51,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Hey there! 👋 I'm SKKU university student with a keen interest in the data engineering.
+      I value sincerity, innovation, and integrity. I think maintaining a positive atmosphere and 
+      attitude helps increase work efficiency.
+      I also quick to learn, dynamic, comfortable with fast-paced environments, and have the ability 
+      to adapt quickly and work efficiently with large teams.
+      Thank you for being here! If you have any suggestions, please feel free to contact me!
 education:
     title: Education
     info:
@@ -109,46 +109,20 @@ certifications:
           credentialurl: www.microsoft.com
           credentialname: Microsoft
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
+            The MOS Master certification, short for Microsoft Office Specialist Master, validates specialized knowledge and skills 
+            in the Microsoft Office product suite. Primarily focused on word processing (Word), spreadsheet software (Excel), and 
+            presentation software (PowerPoint), this certification attests to one's proficiency in various applications within the 
+            Microsoft Office suite.
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      These are my main projects that I've passionately 
+      crafted, blending technical expertise with creative solutions. 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+      - title: ChatPub
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "An AI based chatbot service that helps finding policy for Korean youth."
 
 oss:
     title: OSS Contributions
@@ -195,23 +169,21 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Mathematics
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Python
         level: 98%
 
-      - name: Angular
+      - name: Database & SQL
         level: 98%
+
+      - name: C & C++
+        level: 88%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 75%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
