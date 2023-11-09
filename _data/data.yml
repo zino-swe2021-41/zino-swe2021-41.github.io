@@ -14,41 +14,35 @@ sidebar:
 
     # Sidebar links
     email: jinho142857@gmail.com
-    phone: 01041760731
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    phone: "01041760731"
+    website: zino-swe2021-41.github.io/ #do not add http://
+    linkedin: Jinho Park
+    github: zino-swe2021-41
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Korean
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
+        - idiom: English
           level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Piano
           link:
 
-        - item: Snowboarding
+        - item: Fashion
           link:
 
         - item: Cooking
